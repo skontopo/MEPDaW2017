@@ -8,4 +8,4 @@ The analyses in the paper were performed with the help of the [SemaDrift](http:/
 
 ---
 
-[1] Thanos G. Stavropoulos, Efstratios Kontopoulos, Albert Meroño Peñuela, Stavros Tachos, Stelios Andreadis, Ioannis Kompatsiaris. Cross-domain Semantic Drift Measurement in Ontologies Using the SemaDrift Tool and Metrics. Paper submitted to the 3rd Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW), 2017.
+[1] Thanos G. Stavropoulos, Efstratios Kontopoulos, Albert Meroño Peñuela, Stavros Tachos, Stelios Andreadis, Ioannis Kompatsiaris. [Cross-domain Semantic Drift Measurement in Ontologies Using the SemaDrift Tool and Metrics](https://www.researchgate.net/publication/316546049_Cross-domain_Semantic_Drift_Measurement_in_Ontologies_Using_the_SemaDrift_Tool_and_Metrics). Paper submitted to the 3rd Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW), 2017.
